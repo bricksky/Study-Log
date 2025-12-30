@@ -10,8 +10,7 @@
 - 1단계: 전통적 배포(On-premise)
     - 물리 서버에서 실행하므로 변경 적용이 어렵고 유지관리 비용이 높다
     
-    
-  <img width="436" height="156" alt="image" src="https://github.com/user-attachments/assets/5dc4ef4d-fd36-445e-8653-fbcb3e2594b9" />
+      <img width="436" height="156" alt="image" src="https://github.com/user-attachments/assets/5dc4ef4d-fd36-445e-8653-fbcb3e2594b9" />
 
     
 - 2단계: 가상 환경 배포(VM)
